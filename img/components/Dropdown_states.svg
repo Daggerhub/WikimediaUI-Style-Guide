@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="564px" height="388px" viewBox="0 0 564 388" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Dropdown_states</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.5954523,12.3787874 C17.5954523,11.7256091 17.0590701,11.1960268 16.3978922,11.1960268 C15.7383142,11.1960268 15.203532,11.7232092 15.2015321,12.3747875 L15.2015321,11.548815 C15.2015321,10.6920436 14.483156,9.99766674 13.5963856,9.99766674 C12.7096151,9.99766674 12.0036387,10.6920436 12.0036387,11.548815 L12.0036387,10.350455 C12.0036387,9.49368354 11.2756629,8.79930669 10.3928923,8.79930669 C9.51012177,8.79930669 8.80654522,9.49408353 8.80654522,10.350455 L8.80654522,1.42515249 C8.80654522,0.637978734 8.1681665,-2.3109992e-14 7.39619224,-2.3109992e-14 C6.62461796,-2.3109992e-14 5.99863882,0.638378721 5.99863882,1.42515249 L5.99863882,16.4630512 L2.39595891,11.8040065 C2.04997044,11.2180261 1.26999644,11.0252325 0.653616989,11.3728209 C0.0372375346,11.7208093 -0.181955159,12.4779841 0.164033308,13.0639645 C0.164033308,13.0639645 2.9811394,17.4326189 4.13110107,19.1573614 C5.28106274,20.8821039 7.16859982,23.009633 7.16859982,24 L15.1579335,24 C15.1579335,22.3280557 17.6014521,19.7165428 17.6014521,17.2018266 L17.6014521,13.9627346 L17.5954523,12.3787874 Z" id="path-1"></path>
+        <filter x="-36.9%" y="-18.8%" width="173.9%" height="154.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.582908741 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.179347826 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M17.5954523,12.3787874 C17.5954523,11.7256091 17.0590701,11.1960268 16.3978922,11.1960268 C15.7383142,11.1960268 15.203532,11.7232092 15.2015321,12.3747875 L15.2015321,11.548815 C15.2015321,10.6920436 14.483156,9.99766674 13.5963856,9.99766674 C12.7096151,9.99766674 12.0036387,10.6920436 12.0036387,11.548815 L12.0036387,10.350455 C12.0036387,9.49368354 11.2756629,8.79930669 10.3928923,8.79930669 C9.51012177,8.79930669 8.80654522,9.49408353 8.80654522,10.350455 L8.80654522,1.42515249 C8.80654522,0.637978734 8.1681665,-2.3109992e-14 7.39619224,-2.3109992e-14 C6.62461796,-2.3109992e-14 5.99863882,0.638378721 5.99863882,1.42515249 L5.99863882,16.4630512 L2.39595891,11.8040065 C2.04997044,11.2180261 1.26999644,11.0252325 0.653616989,11.3728209 C0.0372375346,11.7208093 -0.181955159,12.4779841 0.164033308,13.0639645 C0.164033308,13.0639645 2.9811394,17.4326189 4.13110107,19.1573614 C5.28106274,20.8821039 7.16859982,23.009633 7.16859982,24 L15.1579335,24 C15.1579335,22.3280557 17.6014521,19.7165428 17.6014521,17.2018266 L17.6014521,13.9627346 L17.5954523,12.3787874 Z" id="path-3"></path>
+        <filter x="-36.9%" y="-18.8%" width="173.9%" height="154.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.582908741 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.179347826 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M194.008536,168 C192.899252,168 192,168.889262 192,170.001743 L192,200 L301,200 L301,170.001743 C301,168.896211 300.106589,168 298.991464,168 L194.008536,168 Z" id="path-5"></path>
+        <path d="M192,200.943359 L192,260.950729 C192,262.051228 192.893411,262.943359 194.008536,262.943359 L298.991464,262.943359 C300.100748,262.943359 301,262.043008 301,260.950729 L301,200.943359 L192,200.943359 Z" id="path-6"></path>
+        <filter x="-4.6%" y="-4.8%" width="109.2%" height="116.1%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-8" x="192" y="299" width="110" height="32" rx="2"></rect>
+        <path d="M452,200.943359 L452,260.950729 C452,262.051228 452.893411,262.943359 454.008536,262.943359 L558.991464,262.943359 C560.100748,262.943359 561,262.043008 561,260.950729 L561,200.943359 L452,200.943359 Z" id="path-9"></path>
+        <filter x="-4.6%" y="-4.8%" width="109.2%" height="116.1%" filterUnits="objectBoundingBox" id="filter-10">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M454.008536,168 C452.899252,168 452,168.889262 452,170.001743 L452,200 L561,200 L561,170.001743 C561,168.896211 560.106589,168 558.991464,168 L454.008536,168 Z" id="path-11"></path>
+        <path d="M2.00853571,0 C0.899252067,0 0,0.889261723 0,2.00174332 L0,32 L109,32 L109,2.00174332 C109,0.89621101 108.106589,0 106.991464,0 L2.00853571,0 Z" id="path-12"></path>
+        <path d="M0,32.9433594 L0,92.9507292 C0,94.0512284 0.893410977,94.9433594 2.00853571,94.9433594 L106.991464,94.9433594 C108.100748,94.9433594 109,94.0430084 109,92.9507292 L109,32.9433594 L0,32.9433594 Z" id="path-13"></path>
+        <filter x="-4.6%" y="-4.8%" width="109.2%" height="116.1%" filterUnits="objectBoundingBox" id="filter-14">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M17.5954523,12.3787874 C17.5954523,11.7256091 17.0590701,11.1960268 16.3978922,11.1960268 C15.7383142,11.1960268 15.203532,11.7232092 15.2015321,12.3747875 L15.2015321,11.548815 C15.2015321,10.6920436 14.483156,9.99766674 13.5963856,9.99766674 C12.7096151,9.99766674 12.0036387,10.6920436 12.0036387,11.548815 L12.0036387,10.350455 C12.0036387,9.49368354 11.2756629,8.79930669 10.3928923,8.79930669 C9.51012177,8.79930669 8.80654522,9.49408353 8.80654522,10.350455 L8.80654522,1.42515249 C8.80654522,0.637978734 8.1681665,-2.3109992e-14 7.39619224,-2.3109992e-14 C6.62461796,-2.3109992e-14 5.99863882,0.638378721 5.99863882,1.42515249 L5.99863882,16.4630512 L2.39595891,11.8040065 C2.04997044,11.2180261 1.26999644,11.0252325 0.653616989,11.3728209 C0.0372375346,11.7208093 -0.181955159,12.4779841 0.164033308,13.0639645 C0.164033308,13.0639645 2.9811394,17.4326189 4.13110107,19.1573614 C5.28106274,20.8821039 7.16859982,23.009633 7.16859982,24 L15.1579335,24 C15.1579335,22.3280557 17.6014521,19.7165428 17.6014521,17.2018266 L17.6014521,13.9627346 L17.5954523,12.3787874 Z" id="path-15"></path>
+        <filter x="-36.9%" y="-18.8%" width="173.9%" height="154.2%" filterUnits="objectBoundingBox" id="filter-16">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.582908741 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.179347826 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Artboard-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WikimediaUI-components_overview" transform="translate(-7998.000000, -255.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="14720" height="3264"></rect>
+            <g id="DROPDOWN" transform="translate(7998.000000, 186.000000)">
+                <g id="Dropdown-X" transform="translate(2.000000, 70.000000)">
+                    <rect id="Mediawiki.Neutral.Acive-15" stroke="#A2A9B1" fill="#FFFFFF" x="191.5" y="55.5" width="110" height="33" rx="2"></rect>
+                    <rect id="Mediawiki.Neutral.Acive-15" stroke="#72777D" fill="#EAECF0" x="191.5" y="111.5" width="110" height="33" rx="2"></rect>
+                    <g id="Cursor-/-Pointer" transform="translate(281.000000, 134.000000)">
+                        <g id="Cursor-Pointer">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <path stroke="#000000" stroke-width="1" d="M5.49863882,14.9990679 L5.49863882,1.42515249 C5.49863882,0.364390213 6.34627404,-0.5 7.39619224,-0.5 C8.4475222,-0.5 9.30654522,0.365060667 9.30654522,1.42515249 L9.30654522,8.59739976 C9.62275187,8.40813447 9.99458465,8.29930669 10.3928923,8.29930669 C11.3696842,8.29930669 12.2017759,8.95226109 12.4371411,9.83891321 C12.7687636,9.62309774 13.1672561,9.49766674 13.5963856,9.49766674 C14.5229268,9.49766674 15.3133259,10.0818718 15.5931989,10.8969793 C15.8327664,10.7687518 16.10688,10.6960268 16.3978922,10.6960268 C17.3338791,10.6960268 18.0954523,11.4481132 18.0954523,12.3787874 L18.0954487,12.3768934 L18.1014521,13.9627346 L18.1014521,17.2018266 C18.1014521,17.45899 18.0788416,17.7210344 18.0348962,17.9890448 C17.8804952,18.9306924 17.5230199,19.8003644 16.8234169,21.1474064 C15.8127426,23.093397 15.6579335,23.4442918 15.6579335,24 L15.6579335,24.5 L6.66859982,24.5 L6.66859982,24 C6.66859982,23.5786103 6.19563371,22.8309976 4.81529743,20.9702918 C4.77572637,20.916944 4.77572637,20.916944 4.73613542,20.8635322 C4.25954481,20.2204113 3.97897576,19.8305154 3.71509077,19.4347338 C3.32594411,18.8510815 2.72477886,17.9332706 1.96848974,16.7703263 C1.95455156,16.7488931 1.95455156,16.7488931 1.94061413,16.727459 C1.45803808,15.9852984 0.942759518,15.1902097 0.428630429,14.3951327 C0.248691135,14.1168648 0.137397398,13.944607 -0.0679723281,13.6265707 C-0.221942375,13.3880215 -0.221942375,13.3880215 -0.266517693,13.3181807 C-0.757186346,12.4871638 -0.448495824,11.4208575 0.408016869,10.9372976 C1.25796465,10.4579954 2.33990048,10.7256484 2.79149833,11.4981494 L5.49863882,14.9990679 Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                    <g id="Cursor-/-Pointer" transform="translate(281.000000, 78.000000)">
+                        <g id="Cursor-Pointer">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <path stroke="#000000" stroke-width="1" d="M5.49863882,14.9990679 L5.49863882,1.42515249 C5.49863882,0.364390213 6.34627404,-0.5 7.39619224,-0.5 C8.4475222,-0.5 9.30654522,0.365060667 9.30654522,1.42515249 L9.30654522,8.59739976 C9.62275187,8.40813447 9.99458465,8.29930669 10.3928923,8.29930669 C11.3696842,8.29930669 12.2017759,8.95226109 12.4371411,9.83891321 C12.7687636,9.62309774 13.1672561,9.49766674 13.5963856,9.49766674 C14.5229268,9.49766674 15.3133259,10.0818718 15.5931989,10.8969793 C15.8327664,10.7687518 16.10688,10.6960268 16.3978922,10.6960268 C17.3338791,10.6960268 18.0954523,11.4481132 18.0954523,12.3787874 L18.0954487,12.3768934 L18.1014521,13.9627346 L18.1014521,17.2018266 C18.1014521,17.45899 18.0788416,17.7210344 18.0348962,17.9890448 C17.8804952,18.9306924 17.5230199,19.8003644 16.8234169,21.1474064 C15.8127426,23.093397 15.6579335,23.4442918 15.6579335,24 L15.6579335,24.5 L6.66859982,24.5 L6.66859982,24 C6.66859982,23.5786103 6.19563371,22.8309976 4.81529743,20.9702918 C4.77572637,20.916944 4.77572637,20.916944 4.73613542,20.8635322 C4.25954481,20.2204113 3.97897576,19.8305154 3.71509077,19.4347338 C3.32594411,18.8510815 2.72477886,17.9332706 1.96848974,16.7703263 C1.95455156,16.7488931 1.95455156,16.7488931 1.94061413,16.727459 C1.45803808,15.9852984 0.942759518,15.1902097 0.428630429,14.3951327 C0.248691135,14.1168648 0.137397398,13.944607 -0.0679723281,13.6265707 C-0.221942375,13.3880215 -0.221942375,13.3880215 -0.266517693,13.3181807 C-0.757186346,12.4871638 -0.448495824,11.4208575 0.408016869,10.9372976 C1.25796465,10.4579954 2.33990048,10.7256484 2.79149833,11.4981494 L5.49863882,14.9990679 Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                    <g id="Mediawiki.Neutral.Acive-15-Copy-2" stroke="#3366CC">
+                        <path d="M192.5,199.5 L300.5,199.5 L300.5,170.001743 C300.5,169.170493 299.828583,168.5 298.991464,168.5 L194.008536,168.5 C193.172335,168.5 192.5,169.168454 192.5,170.001743 L192.5,199.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        <path d="M194.008536,167.5 L298.991464,167.5 C300.38056,167.5 301.5,168.6179 301.5,170.001743 L301.5,200.5 L191.5,200.5 L191.5,170.001743 C191.5,168.614869 192.621341,167.5 194.008536,167.5 Z"></path>
+                    </g>
+                    <g id="Mediawiki.Neutral.Acive-15">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        <path stroke="#A2A9B1" stroke-width="1" d="M191.5,200.443359 L301.5,200.443359 L301.5,260.950729 C301.5,262.322563 300.373467,263.443359 298.991464,263.443359 L194.008536,263.443359 C192.619949,263.443359 191.5,262.330043 191.5,260.950729 L191.5,200.443359 Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    </g>
+                    <rect id="Mediawiki.Neutral.Acive-15" stroke="#A2A9B1" fill="#F8F9FA" x="191.5" y="-0.5" width="110" height="33" rx="2"></rect>
+                    <text id="Neutral" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#222222">
+                        <tspan x="207" y="22">Neutral</tspan>
+                    </text>
+                    <text id="Neutral-26" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#444444">
+                        <tspan x="207" y="78">Neutral</tspan>
+                    </text>
+                    <text id="Neutral-26" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#000000">
+                        <tspan x="207" y="134">Neutral</tspan>
+                    </text>
+                    <text id="Neutral-26" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#222222">
+                        <tspan x="207" y="190">Neutral</tspan>
+                    </text>
+                    <g id="Icon-/-Dropdown-indicator-/-!default" transform="translate(273.000000, 13.000000)" fill="#222222">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                    <g id="Icon-/-Dropdown-indicator-/-!default" transform="translate(273.000000, 69.000000)" fill="#222222">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                    <g id="Mediawiki.Neutral.Acive-15-Copy" stroke="#3366CC">
+                        <rect x="191.5" y="298.5" width="111" height="33" rx="2"></rect>
+                        <rect stroke-linejoin="square" x="192.5" y="299.5" width="109" height="31" rx="2"></rect>
+                    </g>
+                    <text id="Neutral-26-Copy" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#222222">
+                        <tspan x="207" y="321">Neutral</tspan>
+                    </text>
+                    <g id="Icon-/-Dropdown-indicator-/-!default" transform="translate(273.000000, 312.000000)" fill="#222222">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                    <rect id="Mediawiki.Neutral.Acive-19" stroke="#C8CCD1" fill="#C8CCD1" x="191.5" y="353.5" width="110" height="33" rx="2"></rect>
+                    <text id="Neutral" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#FFFFFF">
+                        <tspan x="207" y="376">Neutral</tspan>
+                    </text>
+                    <g id="Icon-/-Dropdown-indicator-/-:inverted" transform="translate(273.000000, 368.000000)" fill="#FFFFFF">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                    <g id="Icon-/-Dropdown-indicator-/-:active" transform="translate(273.000000, 125.000000)" fill="#000000">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                    <g id="Icon-/-Dropdown-indicator-/-:active" transform="translate(273.000000, 181.000000)" fill="#000000">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                    <g id="101-/-16-sp-(1-em)" transform="translate(285.000000, 182.000000)" stroke="#D0021B" stroke-width="4">
+                        <path d="M0,2 L16,2" id="16-sp-(1-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 359.000000) rotate(270.000000) translate(-214.000000, -359.000000) translate(210.000000, 357.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 172.000000) rotate(90.000000) translate(-214.000000, -172.000000) translate(210.000000, 170.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 382.000000) rotate(270.000000) translate(-214.000000, -382.000000) translate(210.000000, 380.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-16-sp-(1-em)" transform="translate(192.000000, 368.000000)" stroke="#D0021B" stroke-width="4">
+                        <path d="M0,2 L16,2" id="16-sp-(1-em)"></path>
+                    </g>
+                    <g id="101-/-16-sp-(1-em)" transform="translate(285.000000, 368.000000)" stroke="#D0021B" stroke-width="4">
+                        <path d="M0,2 L16,2" id="16-sp-(1-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(264.000000, 368.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-16-sp-(1-em)" transform="translate(192.000000, 183.000000)" stroke="#D0021B" stroke-width="4">
+                        <path d="M0,2 L16,2" id="16-sp-(1-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(264.000000, 182.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <text id="Neutral" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#222222">
+                        <tspan x="207" y="221">Neutral</tspan>
+                        <tspan x="207" y="237.391998" line-spacing="15"></tspan>
+                    </text>
+                    <text id="Neutral-2" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#222222">
+                        <tspan x="208" y="253">Neutral 2</tspan>
+                    </text>
+                    <g id="Mediawiki.Neutral.Acive-15-Copy-5">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                        <path stroke="#A2A9B1" stroke-width="1" d="M451.5,200.443359 L561.5,200.443359 L561.5,260.950729 C561.5,262.322563 560.373467,263.443359 558.991464,263.443359 L454.008536,263.443359 C452.619949,263.443359 451.5,262.330043 451.5,260.950729 L451.5,200.443359 Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    </g>
+                    <path d="M452,233 L561,233 L561,262.001846 C561,262.553111 560.560827,263 559.990545,263 L453.009455,263 C452.451948,263 452,262.552635 452,262.001846 L452,233 Z" id="Rectangle-633" fill="#EAF3FF"></path>
+                    <g id="Mediawiki.Neutral.Acive-15-Copy-6" stroke="#3366CC">
+                        <path d="M452.5,199.5 L560.5,199.5 L560.5,170.001743 C560.5,169.170493 559.828583,168.5 558.991464,168.5 L454.008536,168.5 C453.172335,168.5 452.5,169.168454 452.5,170.001743 L452.5,199.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        <path d="M454.008536,167.5 L558.991464,167.5 C560.38056,167.5 561.5,168.6179 561.5,170.001743 L561.5,200.5 L451.5,200.5 L451.5,170.001743 C451.5,168.614869 452.621341,167.5 454.008536,167.5 Z"></path>
+                    </g>
+                    <text id="Neutral" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#222222">
+                        <tspan x="464.152" y="190">Neutral</tspan>
+                    </text>
+                    <g id="Icon-/-Dropdown-indicator-/-:active" transform="translate(527.000000, 181.000000)" fill="#000000">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                    <text id="Neutral" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#222222">
+                        <tspan x="468" y="222">Neutral</tspan>
+                        <tspan x="468" y="238.391998" line-spacing="15"></tspan>
+                    </text>
+                    <text id="Neutral-2" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#3366CC">
+                        <tspan x="468" y="251">Neutral 2</tspan>
+                    </text>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 196.000000) rotate(90.000000) translate(-214.000000, -196.000000) translate(210.000000, 194.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 227.000000) rotate(90.000000) translate(-214.000000, -227.000000) translate(210.000000, 225.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 205.000000) rotate(90.000000) translate(-214.000000, -205.000000) translate(210.000000, 203.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 236.000000) rotate(90.000000) translate(-214.000000, -236.000000) translate(210.000000, 234.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <g id="101-/-8-sp-(0.5-em)" transform="translate(214.000000, 259.000000) rotate(90.000000) translate(-214.000000, -259.000000) translate(210.000000, 257.000000)" stroke="#50E3C2" stroke-width="4">
+                        <path d="M0,2 L8,2" id="8-sp-(0.5-em)"></path>
+                    </g>
+                    <circle id="Oval-243" fill="#3366CC" cx="199.5" cy="214.5" r="2.5"></circle>
+                    <g id="Dropdown-/---expanded-:hover" transform="translate(320.000000, 168.000000)">
+                        <g id="Mediawiki.Neutral.Acive-15-Copy-4" stroke="#3366CC" stroke-width="1">
+                            <path d="M0.5,31.5 L108.5,31.5 L108.5,2.00174332 C108.5,1.17049302 107.828583,0.5 106.991464,0.5 L2.00853571,0.5 C1.17233462,0.5 0.5,1.16845414 0.5,2.00174332 L0.5,31.5 Z" stroke-linejoin="square" fill="#FFFFFF" fill-rule="evenodd"></path>
+                            <path d="M2.00853571,-0.5 L106.991464,-0.5 C108.38056,-0.5 109.5,0.617899853 109.5,2.00174332 L109.5,32.5 L-0.5,32.5 L-0.5,2.00174332 C-0.5,0.614869484 0.621341475,-0.5 2.00853571,-0.5 Z"></path>
+                        </g>
+                        <g id="Mediawiki.Neutral.Acive-15-Copy-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <path stroke="#A2A9B1" stroke-width="1" d="M-0.5,32.4433594 L109.5,32.4433594 L109.5,92.9507292 C109.5,94.3225627 108.373467,95.4433594 106.991464,95.4433594 L2.00853571,95.4433594 C0.619948579,95.4433594 -0.5,94.3300432 -0.5,92.9507292 L-0.5,32.4433594 Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                        <path d="M0,65 L109,65 L109,94.0018463 C109,94.5531114 108.560827,95 107.990545,95 L1.00945519,95 C0.451948483,95 0,94.5526348 0,94.0018463 L0,65 Z" id="Rectangle-631" fill="#EAECF0" fill-rule="evenodd"></path>
+                        <text id="Neutral-26-Copy-2" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#222222">
+                            <tspan x="15" y="23">Neutral</tspan>
+                        </text>
+                        <g id="Icon-/-Dropdown-indicator-/-!default" transform="translate(78.000000, 13.000000)" fill="#222222" fill-rule="evenodd">
+                            <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                        </g>
+                        <text id="Neutral" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#222222">
+                            <tspan x="16" y="54">Neutral</tspan>
+                            <tspan x="16" y="70.3919983" line-spacing="15"></tspan>
+                        </text>
+                        <text id="Neutral-2" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#222222">
+                            <tspan x="16" y="85">Neutral 2</tspan>
+                        </text>
+                        <circle id="Oval-243-Copy" fill="#3366CC" fill-rule="evenodd" cx="8.5" cy="49.5" r="2.5"></circle>
+                    </g>
+                    <g id="Cursor-/-Pointer" transform="translate(404.000000, 247.000000)">
+                        <g id="Cursor-Pointer">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                            <path stroke="#000000" stroke-width="1" d="M5.49863882,14.9990679 L5.49863882,1.42515249 C5.49863882,0.364390213 6.34627404,-0.5 7.39619224,-0.5 C8.4475222,-0.5 9.30654522,0.365060667 9.30654522,1.42515249 L9.30654522,8.59739976 C9.62275187,8.40813447 9.99458465,8.29930669 10.3928923,8.29930669 C11.3696842,8.29930669 12.2017759,8.95226109 12.4371411,9.83891321 C12.7687636,9.62309774 13.1672561,9.49766674 13.5963856,9.49766674 C14.5229268,9.49766674 15.3133259,10.0818718 15.5931989,10.8969793 C15.8327664,10.7687518 16.10688,10.6960268 16.3978922,10.6960268 C17.3338791,10.6960268 18.0954523,11.4481132 18.0954523,12.3787874 L18.0954487,12.3768934 L18.1014521,13.9627346 L18.1014521,17.2018266 C18.1014521,17.45899 18.0788416,17.7210344 18.0348962,17.9890448 C17.8804952,18.9306924 17.5230199,19.8003644 16.8234169,21.1474064 C15.8127426,23.093397 15.6579335,23.4442918 15.6579335,24 L15.6579335,24.5 L6.66859982,24.5 L6.66859982,24 C6.66859982,23.5786103 6.19563371,22.8309976 4.81529743,20.9702918 C4.77572637,20.916944 4.77572637,20.916944 4.73613542,20.8635322 C4.25954481,20.2204113 3.97897576,19.8305154 3.71509077,19.4347338 C3.32594411,18.8510815 2.72477886,17.9332706 1.96848974,16.7703263 C1.95455156,16.7488931 1.95455156,16.7488931 1.94061413,16.727459 C1.45803808,15.9852984 0.942759518,15.1902097 0.428630429,14.3951327 C0.248691135,14.1168648 0.137397398,13.944607 -0.0679723281,13.6265707 C-0.221942375,13.3880215 -0.221942375,13.3880215 -0.266517693,13.3181807 C-0.757186346,12.4871638 -0.448495824,11.4208575 0.408016869,10.9372976 C1.25796465,10.4579954 2.33990048,10.7256484 2.79149833,11.4981494 L5.49863882,14.9990679 Z" fill="#FFFFFF" fill-rule="evenodd"></path>
+                        </g>
+                    </g>
+                    <circle id="Oval-243-Copy-2" fill="#3366CC" cx="460.5" cy="215.5" r="2.5"></circle>
+                    <text id="Normal-Hover-Active" font-family="Lato-Regular, Lato" font-size="14" font-weight="normal" line-spacing="18.7" fill="#72777D">
+                        <tspan x="0" y="20">Normal</tspan>
+                        <tspan x="0" y="38.7"></tspan>
+                        <tspan x="0" y="57.4"></tspan>
+                        <tspan x="0" y="76.1">Hover</tspan>
+                        <tspan x="0" y="94.8"></tspan>
+                        <tspan x="0" y="113.5"></tspan>
+                        <tspan x="0" y="132.2">Active</tspan>
+                        <tspan x="0" y="150.9"></tspan>
+                        <tspan x="0" y="169.6"></tspan>
+                        <tspan x="0" y="188.3">Expanded Menu</tspan>
+                        <tspan x="0" y="207">Focus</tspan>
+                        <tspan x="0" y="225.7"></tspan>
+                        <tspan x="0" y="244.4"></tspan>
+                        <tspan x="0" y="263.1"></tspan>
+                        <tspan x="0" y="281.8"></tspan>
+                        <tspan x="0" y="300.5"></tspan>
+                        <tspan x="0" y="319.2">Focus</tspan>
+                        <tspan x="0" y="337.9"></tspan>
+                        <tspan x="0" y="356.6"></tspan>
+                        <tspan x="0" y="375.3">Disabled</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

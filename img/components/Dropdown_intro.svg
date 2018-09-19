@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="111px" height="34px" viewBox="0 0 111 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Dropdown_intro</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WikimediaUI-components_overview" transform="translate(-8191.000000, -255.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="14720" height="3264"></rect>
+            <g id="DROPDOWN" transform="translate(7998.000000, 186.000000)">
+                <g id="Dropdown-X" transform="translate(2.000000, 70.000000)">
+                    <rect id="Mediawiki.Neutral.Acive-15" stroke="#A2A9B1" fill="#F8F9FA" x="191.5" y="-0.5" width="110" height="33" rx="2"></rect>
+                    <text id="Neutral" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="16" font-weight="bold" fill="#222222">
+                        <tspan x="207" y="22">Neutral</tspan>
+                    </text>
+                    <g id="Icon-/-Dropdown-indicator-/-!default" transform="translate(273.000000, 13.000000)" fill="#222222">
+                        <polyline id="Shape" points="12 1.2636 10.842 0 6 4.632 1.2636 0 0 1.2636 6 7.2636 12 1.2636"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
